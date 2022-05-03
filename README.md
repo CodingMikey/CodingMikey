@@ -10,7 +10,7 @@ Full-Stack experience using .NET Framework 4.6.2, ASP.NET Core 3.1+ MVC, C#, Ang
 * 🖥️  See my portfolio at [https://michaelgalas.netlify.app/](http://michaelgalas.netlify.app/)
 * ✉️  You can contact me at [mgalas2015@gmail.com](mailto:mgalas2015@gmail.com)
 * 🚀  I'm currently working on [Big projects](http://wasteconnections.com)
-* 🧠  I'm learning Agular 12 & C# LINQ Joins
+* 🧠  I'm building building my C# & .NET skills
 * ⚡  Currently into COD
 
 ### Skills
