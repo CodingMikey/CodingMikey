@@ -9,7 +9,7 @@ Full-Stack experience using .NET Framework 4.6.2, ASP.NET Core 3.1+ MVC, C#, Ang
 * :earth_africa:  I'm based in Washington
 * :desktop:  See my portfolio at [https://michaelgalas.netlify.app/](http://michaelgalas.netlify.app/)
 * :envelope:  You can contact me at [mgalas2015@gmail.com](mailto:mgalas2015@gmail.com)
-* :rocket:  I'm currently working on [Trip Keeper - ASP.NET 3.1 Azure App](http://tripkeeper.azurewebsite.net/)
+* :rocket:  I'm currently working on big projects
 * :brain:  I'm learning Angular 12 & SQL Joins
 * :zap:  I like Half-Life
 
