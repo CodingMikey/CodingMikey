@@ -11,7 +11,7 @@ Full-Stack experience using .NET Framework 4.6.2, ASP.NET Core 3.1+ MVC, .NET 3.
 * ✉️  You can contact me at [mgalas2015@gmail.com](mailto:mgalas2015@gmail.com)
 * 🚀  I'm currently working on [Big projects](http://wasteconnections.com)
 * 🧠  Always looking to build my C# & .NET skills
-* ⚡  Currently into COD MW
+* ⚡  Currently into BF2042
 
 ### Skills
 
