@@ -4,7 +4,7 @@ Hi 👋 My name is Michael Galas
 Software Developer
 ------------------
 
-Full-Stack experience using .NET Framework 4.6.2, ASP.NET Core 3.1+ MVC, .NET 3.1+, C#, Angular 8+, TypeScript, Microsoft SQL Server, Entity Framework, JavaScript, Microsoft Azure, RESTful APIs, Postman
+Full-Stack experience using .NET Framework 4.6.2, ASP.NET Core 3.1+ MVC, C#, Angular 8+, TypeScript, Microsoft SQL Server, Entity Framework, JavaScript, Microsoft Azure, RESTful APIs, Postman
 
 * 🌍  I'm based in Washington
 * 🖥️  See my portfolio at [https://michaelgalas.netlify.app/](http://michaelgalas.netlify.app/)
